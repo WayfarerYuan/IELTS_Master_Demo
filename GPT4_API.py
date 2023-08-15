@@ -4,7 +4,7 @@ import openai
 import sys
 
 # Set the API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Initialize the prompt
 # topic = "More and more business meetings and business training have taken place on the internet. Do the advantages of this development outweigh the disadvantages?"
