@@ -2,7 +2,7 @@
 import openai
 
 # Set the API key
-openai.api_key = "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"
+openai.api_key = ""
 
 def evaluate_essay(essay_content):
     """Evaluate the IELTS essay using OpenAI's GPT model."""
